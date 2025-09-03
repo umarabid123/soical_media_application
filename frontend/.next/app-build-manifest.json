@@ -1,0 +1,22 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/b6cc7_next_dist_c4dd5600._.js",
+      "static/chunks/Desktop_Social_Media_Application_frontend_app_favicon_ico_mjs_45923c46._.js",
+      "static/chunks/[root-of-the-server]__4bb11d8f._.css",
+      "static/chunks/Desktop_Social_Media_Application_frontend_app_layout_tsx_4c643c60._.js",
+      "static/chunks/b6cc7_next_dist_client_components_builtin_global-error_e78c0197.js",
+      "static/chunks/b6cc7_next_dist_e29cf948._.js",
+      "static/chunks/Desktop_Social_Media_Application_frontend_app_page_tsx_e78c0197._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_74e3f6c8._.js",
+      "static/chunks/b6cc7_next_dist_compiled_react-dom_26a674b1._.js",
+      "static/chunks/b6cc7_next_dist_compiled_next-devtools_index_60facd45.js",
+      "static/chunks/b6cc7_next_dist_compiled_cf75e85c._.js",
+      "static/chunks/b6cc7_next_dist_client_27a7268d._.js",
+      "static/chunks/b6cc7_next_dist_be88d916._.js",
+      "static/chunks/b6cc7_@swc_helpers_cjs_c3b5ce6a._.js",
+      "static/chunks/Desktop_Social_Media_Application_frontend_a0ff3932._.js",
+      "static/chunks/turbopack-Desktop_Social_Media_Application_frontend_983fcee1._.js"
+    ]
+  }
+}
