@@ -1,6 +1,8 @@
 import dotenv from "dotenv";
 import express from "express";
 import connectDB from "./db/db_config.js";
+import cookieParser from 'cookie-parser';
+import cors from 'cors'
 
 const app = express();
 
@@ -16,6 +18,12 @@ app.use(
 // allow json
 
 app.use(express.json({ limit: "10kb" }));
+app.use(express.urlencoded({extended:true, limit:"16kb"}))
+app.use(cookieParser())
+app.use(express.static('public'))
+
+
+
 
 dotenv.config({ path: "./env" });
 
